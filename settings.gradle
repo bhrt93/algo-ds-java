@@ -9,3 +9,4 @@
 
 rootProject.name = 'algo-ds-java'
 include('app')
+include 'leet-prob'
